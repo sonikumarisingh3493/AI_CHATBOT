@@ -55,7 +55,6 @@ function startChat() {
 
     startChat();
   });
-  console.log("GROQ :", process.env.GROQ_API_KEY);
 }
 
 startChat();
